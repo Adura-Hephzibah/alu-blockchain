@@ -5,7 +5,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
+#include <llist/llist.h>
 #include <stdint.h>
+#include <openssl/sha.h>
 #include <unistd.h>
 #include <sys/syscall.h>
 
